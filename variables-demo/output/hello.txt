@@ -1,0 +1,3 @@
+Tere tulemast myapp rakendusse!
+Keskkond: dev
+Port: 8080
