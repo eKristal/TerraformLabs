@@ -30,7 +30,7 @@ resource "local_file" "greeting" {
   filename = "${path.module}/output/hello.txt"
   
   # Faili sisu - \n tähendab uut rida
-  content  = "Tere, Terraform!\nSee fail on loodud IaC-ga.\n"
+  content  = "Tere, SEE ON MUUDETUD Terraform!\nSee fail on loodud IaC-ga.\n"
 }
 
 # Teine fail - konfiguratsioonifail
